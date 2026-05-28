@@ -1,4 +1,4 @@
-const API_URL = 'https://script.google.com/macros/s/AKfycbzsJ_pwaguh8emvYGBKL8fSPH0wdPe_y0V5aDQyxneAbYLInhWGmoXDhqOr88O_w_zKVQ/exec';
+const API_URL = 'https://script.google.com/macros/s/AKfycbx7TV_QjfS-PM_Qzhs1ME1I-ciR0uLSR0dBbPfFi0_lKStmMrpuU0etgozSWuqbVRWBiQ/exec';
 
 async function loadProducts() {
   const response = await fetch(API_URL);
